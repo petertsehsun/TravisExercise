@@ -9,7 +9,7 @@ public class Demo {
     // int selectedStrat = Integer.parseInt(argv[0]);
 
     // discount amount
-    //float amt = Float.parseFloat(argv[1]);
+    float amt = Float.parseFloat(argv[1]);
 
     switch(selectedStrat) {
     case 1:
