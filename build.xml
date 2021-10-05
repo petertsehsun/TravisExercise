@@ -10,7 +10,7 @@
   </target>
 
   <target name="compile" depends="init" >
-    <javac includeantruntime="false"
+    <javac includeantruntime="true"
       srcdir="src"
       destdir="${classdir}" />
   </target>
